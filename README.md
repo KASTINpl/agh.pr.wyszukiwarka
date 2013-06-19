@@ -22,6 +22,7 @@ algorytm:
 
 przykład:
 - plik wejściowy:
+
 1 2 4 5
 2 4
 1 4
@@ -29,6 +30,7 @@ przykład:
 1 2 4 
 
 - wyjście:
+
 Prace zaczyna proces: 0 (wszystkich 5) 
 Prace zaczyna proces: 1 (wszystkich 5) 
 Proces 1 otwiera plik dane_wejsciowe.txt
